@@ -1,1 +1,0 @@
-https://zhuanlan.zhihu.com/p/114538417  深入浅出Word2Vec原理解析
