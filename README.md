@@ -3,10 +3,10 @@
 整点英语显得自己专业
 ### 各文件夹解释
 - ToBeClassfied：待分类，不知道模型所属或可能对项目有帮助
-- DataExploration：数据探索，
+- DataExploration：数据探索，词云图像
 - Word2Vec：文本处理，主要是word2vec技术，可以尝试双向lstm和attention提取文本特征
 - BasicModels：基础模型，主题模型的组成部分或尝试加入的模型，如：vae，cvae，wae，transformer，lstm等。
-- TopicModels：前人构建主题模型，包括传统和使用神经网络的主题模型。
+- TopicModels：前人构建主题模型和自己的NLP主题模型部分,包括传统和使用神经网络的主题模型。
 - Resource：课程展示相关资源
 
 ### 文件夹建立规则
